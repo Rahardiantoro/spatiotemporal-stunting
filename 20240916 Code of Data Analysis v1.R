@@ -1,5 +1,5 @@
 ###Title: Spatio-temporal modeling to identify factors associated with stunting in Indonesia using a Modified Generalized Lasso
-###Authors: Septian Rahardiantoro1*, Alfidhia Rahman Nasa Juhanda, Anang Kurnia, 
+###Authors: Septian Rahardiantoro, Alfidhia Rahman Nasa Juhanda, Anang Kurnia, 
 ####Aswi Aswi, Bagus Sartono, Dian Handayani, Agus Mohamad Soleh, Yusma Yanti, Susanna Cramb
 
 
@@ -565,7 +565,7 @@ english_names <- c("Aceh", "Bali", "Banten",
                    "Southeast Sulawesi", "North Sulawesi", 
                    "West Sumatra", "South Sumatra", 
                    "North Sumatra")
-year.name <- c(2019,2020,2021,2022,2024)
+year.name <- c(2019,2020,2021,2022,2023)
 year.name2 <- c(2020,2021,2022)
 year.name3 <- c(2019,2020,2021,2022)
 
